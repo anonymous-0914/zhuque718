@@ -3,8 +3,6 @@ NGA帖子"我是42，来自长沙，并没有司机拒载"的备份
 https://ngabbs.com/read.php?tid=28494094
 
 20210914 10:19分, 帖子已经被隐藏, 在被隐藏之前我保存了1200楼左右
-正在排版中, 可以先点个star
-
 
 另一个备份的github: [Oshino29/ngaArchive](https://github.com/Oshino29/ngaArchive)
 
