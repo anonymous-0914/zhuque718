@@ -6,6 +6,8 @@ https://ngabbs.com/read.php?tid=28494094
 正在排版中, 可以先点个star
 
 
+另一个备份的github: [Oshino29/ngaArchive](https://github.com/Oshino29/ngaArchive)
+
 ---
 
 前10页: [已上传](https://github.com/anonymous-0914/zhuque718/blob/main/pdf/%E6%88%91%E6%98%AF42%EF%BC%8C%E6%9D%A5%E8%87%AA%E9%95%BF%E6%B2%99%EF%BC%8C%E5%B9%B6%E6%B2%A1%E6%9C%89%E5%8F%B8%E6%9C%BA%E6%8B%92%E8%BD%BD%E3%80%82%20NGA%E7%8E%A9%E5%AE%B6%E7%A4%BE%E5%8C%BA%20P1-11.pdf)
@@ -14,3 +16,5 @@ https://ngabbs.com/read.php?tid=28494094
 11-20: [已上传](https://github.com/anonymous-0914/zhuque718/blob/main/pdf/%E6%88%91%E6%98%AF42%EF%BC%8C%E6%9D%A5%E8%87%AA%E9%95%BF%E6%B2%99%EF%BC%8C%E5%B9%B6%E6%B2%A1%E6%9C%89%E5%8F%B8%E6%9C%BA%E6%8B%92%E8%BD%BD%E3%80%82%20NGA%E7%8E%A9%E5%AE%B6%E7%A4%BE%E5%8C%BA%20P11-20.pdf) ← 被匿名人肉在这里
 
 21-30: [已上传](https://github.com/anonymous-0914/zhuque718/blob/main/pdf/%E6%88%91%E6%98%AF42%EF%BC%8C%E6%9D%A5%E8%87%AA%E9%95%BF%E6%B2%99%EF%BC%8C%E5%B9%B6%E6%B2%A1%E6%9C%89%E5%8F%B8%E6%9C%BA%E6%8B%92%E8%BD%BD%E3%80%82%20NGA%E7%8E%A9%E5%AE%B6%E7%A4%BE%E5%8C%BA%20P21-30.pdf)
+
+31-40: [已上传](https://github.com/anonymous-0914/zhuque718/blob/main/pdf/%E6%88%91%E6%98%AF42%EF%BC%8C%E6%9D%A5%E8%87%AA%E9%95%BF%E6%B2%99%EF%BC%8C%E5%B9%B6%E6%B2%A1%E6%9C%89%E5%8F%B8%E6%9C%BA%E6%8B%92%E8%BD%BD%E3%80%82%20NGA%E7%8E%A9%E5%AE%B6%E7%A4%BE%E5%8C%BA%20P31-40.pdf)
