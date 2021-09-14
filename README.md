@@ -6,7 +6,7 @@ https://ngabbs.com/read.php?tid=28494094
 
 另一个备份的github: [Oshino29/ngaArchive](https://github.com/Oshino29/ngaArchive)
 
-公开信息: https://github.com/anonymous-0914/zhuque718/blob/main/Info.md
+公开信息: [info.md](https://github.com/anonymous-0914/zhuque718/blob/main/Info.md)
 
 ---
 
